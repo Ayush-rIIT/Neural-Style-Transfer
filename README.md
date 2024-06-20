@@ -20,7 +20,7 @@ The core idea behind NST is to separate and then recombine the content and style
 1. Execute the code by pressing Ctrl + F9 to initiate the process.
 2. A Google Drive authentication window will prompt for access to files in your Drive. Proceed by logging into your Google Drive account.
 3. Capture the IP address displayed in the cell output. Navigate to the URL provided in the cell output, opening a new window.
-4. Paste the previously copied IP address into the designated password field to proceed with the operation.
+4. Paste the previously copied IP address into the designated  tunnel password field to proceed with the operation.
 5. Upload the files using the file upload buttons to upload a content image and a style image.
 6. After uploading both images, click the "Style" button to apply Neural Style Transfer.
 7. Allow the process to complete execution. The styled image will appear within the application interface and will be automatically saved in the designated "style-transfer" folder.
