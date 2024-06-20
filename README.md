@@ -25,7 +25,7 @@ The core idea behind NST is to separate and then recombine the content and style
 6. After uploading both images, click the "Style" button to apply Neural Style Transfer.
 7. Allow the process to complete execution. The styled image will appear within the application interface and will be automatically saved in the designated "style-transfer" folder.
 8. Navigate to the "style-transfer" folder. Refresh the directory to display the newly generated "stylised_image.png."
-9. Link to Demo video:
+9. Link to Demo video: https://drive.google.com/drive/folders/1SZzpj2Ctto1sDCOU5SJfUhD3PpAJVddU?usp=sharing 
 ## Dependencies
 The project relies on the following Python libraries and dependencies:
 - [Streamlit](https://streamlit.io/)
